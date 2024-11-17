@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Likun Liu"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Liu"
-description              : &description "M.A. in Communication and Education at Columbia University"
+name                     : &name "Likun Liu"
+description              : &description "Personal Website"
 url                      : https://likieee.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://likieee.github.io/"
