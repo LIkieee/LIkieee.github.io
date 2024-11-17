@@ -19,12 +19,12 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Resume"
-    url: /files/resume.pdf
 
   - title: "Experience"
     url: /experience/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Resume"
+    url: /files/resume.pdf
+    
+  # - title: "Guide"
+  #   url: /markdown/
