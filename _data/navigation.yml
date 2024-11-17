@@ -22,6 +22,9 @@ main:
     
   - title: "Resume"
     url: /files/resume.pdf
+
+  - title: "Experience"
+    url: /experience/
     
   - title: "Guide"
     url: /markdown/
