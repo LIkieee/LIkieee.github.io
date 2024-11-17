@@ -15,11 +15,12 @@ I am deeply passionate about blending my academic background with my professiona
 
 <details>
 <summary>Relevant Coursework</summary>
-<br>
-- The History of Communication
-- Video Games and Education
-- Instructional Design of Educational Technology
-- Theory and programming of interactive media: Part 1
+<ul>
+  <!-- <li>The History of Communication</li> -->
+  <li>Video Games and Education</li>
+  <li>Instructional Design of Educational Technology</li>
+  <li>Theory and programming of interactive media: Part 1</li>
 </details>
 
+<br>
 Feel free to connect with me—I’m always open to exploring exciting opportunities and collaborations!
