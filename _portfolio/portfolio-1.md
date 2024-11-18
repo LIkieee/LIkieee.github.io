@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LittlePaws (In Development) - Designer/Programmer"
+excerpt: "Front-end Course Project: HTML, CSS, Javascript<img src='/images/littlePaw.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+LittlePaws is an educational course project I'm leading, designed as a comprehensive pet development platform to help pet owners visualize and manage their pet parenting journey. As the team leader and primary programmer, I spearheaded the project conceptualization and development, successfully delivering three core features in our initial phase: a health management system, a photo-based timeline for documenting growth milestones, and an interactive pet event calendar. I architected and implemented the entire current system, including the landing page and core features, establishing a robust framework for future development.
+
+[https://codepen.io/Daisysansa/full/MWNbpgq](https://codepen.io/Daisysansa/full/MWNbpgq)
+
+---
